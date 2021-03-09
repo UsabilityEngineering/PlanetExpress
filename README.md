@@ -20,7 +20,7 @@ Our app is designed to help users more quickly and easily locate a specific room
   * What obstacles did they have to overcome
   * How did they feel about the situation
 * All **(100%)** of the interviewees had been in a situation where they could not find a room at a location
-* **Interviews** recorded users (n = 3) experiences with finding a room in a large complex
+* **Interviews** recorded users (n = 4) experiences with finding a room in a large complex
 * Majority of interviewees reported **favorable opinions** of their current GPS apps
 * Some participants make deliveries often (33%)
   * Interviewees who make frequent deliveries reported that they often have difficulty locating a specific room 
