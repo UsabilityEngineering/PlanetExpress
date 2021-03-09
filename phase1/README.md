@@ -1,4 +1,4 @@
-# Team Name, Phase 1: Requirements Gathering
+# Planet Express, Phase 1: Requirements Gathering
 
 ## Methods
   The method that we used for our requirements gathering was an interview. We asked the users about their experiences with trying to find specific rooms in an apartment complex type setting and how they would make that experience better. We felt that this would give us some good insight into the problem space and what features our app should have. We only ended up with three subjects for our interviews, but they did provide some good data and suggestions for us.
