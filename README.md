@@ -1,12 +1,11 @@
-# Replace this with the Project Name
+# Planet Express
 
-Replace this text with a brief introduction to the problem space.
+Our app is designed to help users more quickly and easily locate a specific room in an apartment complex without getting lost.
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
-* **Full Name 3** - Summary of contributions
+* **Eric Colvin** - 
+* **Marco Garcia** - 
 
 # User-Centered Design Artifacts
 
@@ -16,9 +15,22 @@ Replace this text with a brief introduction to the problem space.
 
 # Phase 1: Requirements Gathering
 
-* Executive Summary of methods,
-* data gathered,
-* and most important outcomes
+* Explored how often people ran into issues finding a specific apartment/room in a complex
+  * How did they go about finding it
+  * What obstacles did they have to overcome
+  * How did they feel about the situation
+* All (100%) of the interviewees had been in a situation where they could not find a room at a location
+* Interviews recorded users (n = 3) experiences with finding a room in a large complex
+* Majority of interviewees reported favorable opinions of their current GPS apps
+* Some participants make deliveries often (33%)
+* Interviewees who make frequent deliveries reported that they often have difficulty locating a specific room 
+* Ordered room numbers seem pretty essential to having success finding a room without our app
+* Some users (33%) didn’t like having to use outside assistance to help them find a room.
+* All (100%) interviewees reported some sort of negative emotions, even after successfully finding their room
+* Designed personas and scenarios to represent the main users of our app:
+* Doug - Delivery Driver who frequently has to find rooms in unfamiliar complexes for deliveries
+* Sarah - Everyday person who occasionally will need help finding a room in a large complex
+
 
 [Full phase 1 report](phase1/)
 
