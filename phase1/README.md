@@ -13,7 +13,7 @@
 
 
 ## Caveats
- The main caveat we have is definitely the lack of people available. While we did get some valuable data from our three interviewees, that is definitely not enough people to really get solid data for your project.
+ The main caveat we have is definitely the lack of people available. While we did get some valuable data from our four interviewees, that is definitely not enough people to really get solid data for your project.
 
 
 ## Supplementary Materials
