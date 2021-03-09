@@ -1,21 +1,24 @@
 # Team Name - Meet the Users
+Marco Garcia  
+Eric Colvin
 
 # Personas
 
-## Replace with a Persona's name
+## Doug
 
-Replace with a Persona's details
+Doug is a delivery driver for Door Dash. He is a full-time returning college student. He is between 25-29 years old. Doug is currently single with no family. He only spends his time studying or working.
 
-## Replace with a Persona's name
+## Sarah 
 
-Replace with a Persona's details
+Sarah is a stay-at home mom. She is between 34-38 years old. She is married and has three young children. In her spare time Sarah likes to browse websites like craigslist to find great deals on items.
 
 # Scenarios
 
-## (A) Replace with a Scenario title
+## (A) Delivery time
 
-Replace with a scenario description
+The first scenario is a doordash driver who has to deliver to a specific apartment. They have likely never been to that complex before and as a result will probably have some difficulty getting around. With our app, they will be able to get precise directions that take them straight to the door of the apartment so they can quickly deliver the food and get back on the road to pickup a new order instead of wandering around for 10 minutes trying to find a map/help desk so they can locate the specific room.
 
-## (B) Replace with a Scenario title
 
-Replace with a scenario description
+## (B) Find a friend
+
+The second scenario is someone trying to find their friend’s place that they’ve never been to before. The friend gave basic directions but they are hard to follow and it’s still easy to get lost. With our app, it will give you clear and easy directions to get to the desired room so you don’t have to call your friend and have a 10 minute conversation of you trying to describe which of the seven identical white buildings you are next to.
