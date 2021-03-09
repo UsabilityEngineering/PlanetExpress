@@ -5,7 +5,7 @@
 
 
 ## Findings
-  For our findings we collected data from a few participants. All participants are college students. From our data we found that on thrid of the interviewees make deliveries often. This means that half the interviewees represent our user base. From our data we can also conclude that a majority of our participants are currently satisfied with their GPS app of choice, although one did show slight dissatisfaction with the GPS on their car. We also discovered that some of our participants like being able to see their map displayed on the lock screen. Based on our findings, the top three apps our participants use are Waze, Apple, and google maps. We also found that users can feel frustrated when they can’t find a room number at a location and they are often hesitant to call someone for assistance. 
+  For our findings we collected data from a few participants. All participants are college students. From our data we found that on third of the interviewees make deliveries often. This means that half the interviewees represent our user base. From our data we can also conclude that a majority of our participants are currently satisfied with their GPS app of choice, although one did show slight dissatisfaction with the GPS on their car. We also discovered that some of our participants like being able to see their map displayed on the lock screen. Based on our findings, the top three apps our participants use are Waze, Apple, and google maps. We also found that users can feel frustrated when they can’t find a room number at a location and they are often hesitant to call someone for assistance. 
 
 
 ## Conclusions
