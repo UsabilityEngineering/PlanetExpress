@@ -20,4 +20,4 @@
 
 [See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
 
-Interview Responses: https://docs.google.com/document/d/1riMvnvj5Ehk-IYCeyMVJXuDg1JSJVpPagB_y7crduDo/edit?usp=sharing
+[Interview Responses](https://docs.google.com/document/d/1riMvnvj5Ehk-IYCeyMVJXuDg1JSJVpPagB_y7crduDo/edit?usp=sharing)
