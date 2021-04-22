@@ -41,8 +41,8 @@ Our app is designed to help users more quickly and easily locate a specific room
 * While it can't really be displayed in the wireframe, our app will have the ability to take you to specific room numbers, not just to a larger complex.
   * We had found that people sometimes had difficulty finding specific rooms if the room numbers were not numbered.
 * We also decided to add an augmented reality style navigation in addition to having a regular navigation option.
-  * This wasn't mentioned in our requirements gathering, but we think this would be a good feature to have for when you get out of your car and are navigating through a large complex.
-  * Have the ability to still use traditional maps if you want to or if you are driving and the AR functionality is turned off.
+  * This wasn't mentioned in our **requirements gathering**, but we think this would be a good feature to have for when you get out of your car and are navigating through a large complex.
+  * Have the ability to still use traditional maps if you want to or if you are driving in which case the AR functionality is turned off.
 
 [Full phase 2 report](phase2/)
 
