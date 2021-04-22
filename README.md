@@ -36,7 +36,7 @@ Our app is designed to help users more quickly and easily locate a specific room
 
 # Phase 2: Interaction Design
 
-* Our wireframe started with a base very similar to Google maps since most of our interviewees reported **favorable opinions** of their current GPS apps.
+* Our **wireframe** started with a base very similar to Google maps since most of our interviewees reported **favorable opinions** of their current GPS apps.
   * Didn't want to reinvent the wheel if it works.
 * While it can't really be displayed in the wireframe, our app will have the ability to take you to specific room numbers, not just to a larger complex.
   * We had found that people sometimes had difficulty finding specific rooms if the room numbers were not numbered.
