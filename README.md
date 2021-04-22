@@ -10,8 +10,8 @@ Our app is designed to help users more quickly and easily locate a specific room
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](#)
-* [Prototype](#)
+* [Wireframes](phase2/README.md)
+* [Prototype](https://xd.adobe.com/view/93ab9a28-9d16-431e-8127-f87fa40ad80f-c6f8/)
 
 # Phase 1: Requirements Gathering
 
