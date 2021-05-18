@@ -4,7 +4,7 @@
 
 [**Protocol**](protocol-draft.pdf)
 
-[**Data Collection Spreadsheet**](https://docs.google.com/spreadsheets/d/1fMiYGusKucHEdApkMadKEw5Im0brW3wOFPAJ2eeLiI4/edit?usp=sharing)
+[**Data Collection Spreadsheet**](Planet Express Usability Test - Data.xlsx)
 
 **Background:**
 
