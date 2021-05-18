@@ -48,6 +48,16 @@ Our app is designed to help users more quickly and easily locate a specific room
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+-Our approach is more formative than summative but has little bits of both
+	-Multiple questions involve observing them as they attempt to use the app
+	-A few questions ask for their feedback of various features after they’ve used the app
+-We provide a variety of scenarios for the user to work through
+	-Test different features of the app
+	-Provides more trials to potentially find bugs/other issues
+-We will generally encourage the user to think out loud while testing the app to provide us with additional data, particularly about the **usability** of the app 
+-We want to leave room for the user to provide any additional feedback that they think of, even if we don’t explicitly ask about it
+	-Ask general “What are your thoughts about…” questions
+	-Have an additional feedback section at the end
+
 
 [Full phase 3 report](phase3/)
