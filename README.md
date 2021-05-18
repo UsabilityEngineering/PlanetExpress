@@ -4,7 +4,7 @@ Our app is designed to help users more quickly and easily locate a specific room
 
 ## Team Members
 
-* **Eric Colvin**
+* [**Eric Colvin**] (https://github.com/ecolvin/ux-portfolio-ecolvin)
 * **Marco Garcia**
 
 # User-Centered Design Artifacts
