@@ -7,6 +7,7 @@
 [**Data Collection Spreadsheet**](https://docs.google.com/spreadsheets/d/1fMiYGusKucHEdApkMadKEw5Im0brW3wOFPAJ2eeLiI4/edit?usp=sharing)
 
 **Background:**
+
 **Think back to when you had to find a room/unit at some location. How did you find it?**
 
 This task should give us some basic insight into the most commonly used tools for finding a room/unit in an unfamiliar building. This will help see how our app compares to other forms of navigation by seeing how different people with different backgrounds (using a map/traditional gps/etc…) react differently to our app.
