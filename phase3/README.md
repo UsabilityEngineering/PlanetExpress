@@ -10,6 +10,7 @@
 This task should give us some basic insight into the most commonly used tools for finding a room/unit in an unfamiliar building. This will help see how our app compares to other forms of navigation by seeing how different people with different backgrounds (using a map/traditional gps/etc…) react differently to our app.
 
 
+
 **Tasks:**
 **On a scale from 1-5, where 1 is “very difficult” and 5 is “very easy” how would you rate being able to use this app design to accomplish this task? Why?**
 
@@ -24,6 +25,8 @@ Since the first question is more of a hypothetical, we also want to observe the 
 **3. Find a different room in this building using the ar navigation**
 
 This question, like the previous one is intended to provide us with real time observations of the user testing the app. This question, however, is focused on the AR features which should pose some different obstacles.
+
+
 
 **Wrap-up:**
 
