@@ -26,6 +26,7 @@ Since the first question is more of a hypothetical, we also want to observe the 
 This question, like the previous one is intended to provide us with real time observations of the user testing the app. This question, however, is focused on the AR features which should pose some different obstacles.
 
 **Wrap-up:**
+
 **1. What did you like the most?**
 	
 This question should provide us with some feedback on the most successful parts of our app, so that we know what works well.
