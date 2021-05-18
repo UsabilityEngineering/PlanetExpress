@@ -7,6 +7,9 @@ Our app is designed to help users more quickly and easily locate a specific room
 * [**Eric Colvin**](https://github.com/ecolvin/ux-portfolio-ecolvin)
 * [**Marco Garcia**](https://github.com/UsabilityEngineering/ux-portfolio-magarcia0)
 
+# Contributions
+*All work was split evenly 50/50 between us both.
+
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
